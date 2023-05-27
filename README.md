@@ -5,6 +5,9 @@
   
 ## Previews
 <div style="width:100%; display:flex; justify-content:space-between;">
+
+  <img src="https://github.com/behzodhalil/snapocr/blob/main/docs/images/preview_2.jpg?raw=true" width=20% >
+  <img src="https://github.com/behzodhalil/snapocr/blob/main/docs/images/preview_1.jpg?raw=true" width=20% >
   
 ## Tech stack
 ### Core
